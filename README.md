@@ -8,8 +8,7 @@ Repository containing portfolio of data science projects completed by me. Presen
 	- [Supervised Learning: Credit Loan Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Give-Me-Some-Credit/Standardized%20Binomial%20Logistic%20Regression.ipynb): Testing out Binomial Logsistic Regression for Credit Loan.
 	- [Supervised Learning: Iris Flower Species Classification](https://github.com/mch-fauzy/Data-Science/blob/main/Iris-Flower-ML/KNN%20-%20Iris%20Flower.ipynb): Classifying Iris Flower using K-Nearest Neighbors.
 	- [Supervised Learning: Rock-Paper-Scissor Image Recognition](https://github.com/mch-fauzy/Data-Science/blob/main/Rock-Paper-Scissors-ML/Rock_Paper_Scissors.ipynb): Image Recognition of the Rock-Paper-Scissor game.
-	
-		_Libary: tensorflow
+	  _Libary: tensorflow
 	
 	- [Supervised Learning: Customer Churn Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Customer%20Churn%20Prediction-ML/%20Customer%20Churn%20Prediction%20using%20Machine%20Learning.ipynb): A model to predict the classification of Customer Churn and to find the best model for this dataset.
   - [Unsupervised Learning: Customer Segmentation](https://github.com/mch-fauzy/Data-Science/blob/main/Data%20Science%20in%20Marketing:%20Customer%20Segmentation-ML/KPrototypes%20-%20Data%20Science%20in%20Marketing%20_%20Customer%20Segmentation%20with%20Python.ipynb): Create KPrototypes (Categorical) model for customer segmentation and use it for another or custom dataset (automation purpose).
