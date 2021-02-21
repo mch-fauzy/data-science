@@ -15,7 +15,7 @@ Repository containing portfolio of data science projects completed by me. Presen
   - [Unsupervised Learning: Customer Segmentation](https://github.com/mch-fauzy/Data-Science/blob/main/Data%20Science%20in%20Marketing:%20Customer%20Segmentation-ML/KPrototypes%20-%20Data%20Science%20in%20Marketing%20_%20Customer%20Segmentation%20with%20Python.ipynb): Create KPrototypes (Categorical) model for customer segmentation and use it for another or custom dataset (automation purpose).
 
 
-- ### Data Analysis and Visualisation
+- ### Data Analysis and Visualization
 
 	- [McD Nutrition Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the McDonalds Meals.
 	- [ASEAN Covid-19 Case Comparison](https://github.com/mch-fauzy/Data-Science/blob/main/ASEAN%20Covid-19%20Analysis/ASEAN%20Covid-19%20Analysis.ipynb): Visualisation of Covid-19 in ASEAN between March 2020 and December 2020 (Using API to get the data).
