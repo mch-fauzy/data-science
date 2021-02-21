@@ -1,7 +1,7 @@
 # Data Science Portfolio
 Repository containing portfolio of data science projects completed by me. Presented in the form of iPython Notebooks
 
-## Contents
+## Table of Contents
 
 - ### Machine Learning
 
