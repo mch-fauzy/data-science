@@ -16,7 +16,7 @@ Repository containing portfolio of data science projects and notes completed by 
 - ### Data Analysis and Visualization
 
 	- [McD Nutrition Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Data Analysis of the McDonalds Meals.
-	- [ASEAN Covid-19 Case Comparison](https://github.com/mch-fauzy/Data-Science/blob/main/ASEAN%20Covid-19%20Analysis/ASEAN%20Covid-19%20Analysis.ipynb): Visualisation of Covid-19 in ASEAN between March 2020 and December 2020 (Using API to get the data).
+	- [ASEAN Covid-19 Case Comparison](https://github.com/mch-fauzy/Data-Science/blob/main/ASEAN%20Covid-19%20Analysis/ASEAN%20Covid-19%20Analysis.ipynb): Visualization of Covid-19 in ASEAN between March 2020 and December 2020 (Using API to get the data).
 
 - ### Data Science Notes
 	- [1 - NumPy Overview](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/1%20-%20NumPy%20Overview.ipynb)
