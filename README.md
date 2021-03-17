@@ -30,5 +30,5 @@ Repository containing portfolio of data science projects and notes completed by 
 	- [2 - Pandas Overview](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/2_Pandas/2%20-%20Pandas%20Overview.ipynb)
 	- [3 - Matplotlib](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/3_Matplotlib/3%20-%20Matplotlib.ipynb)
 	- [4 - Seaborn Data Visualizations](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/4_Seaborn_Data_Visualizations/4%20-%20Seaborn%20Data%20Visualizations.ipynb)
-	- [5 - Linear Regression]
+	- 5 - Linear Regression
 	
