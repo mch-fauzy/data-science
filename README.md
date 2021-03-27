@@ -7,7 +7,7 @@ Repository containing portfolio of data science projects and notes completed by 
 
 	- [Supervised Learning: Business Decision Research](https://github.com/mch-fauzy/Data-Science/blob/main/Business_Decision_Research/Business_Decision_Research.ipynb): Exploratory Data Analysis and Logistic Regression modelling to determine customer churn, over a six-year period between 2013 and 2019
 	
-	- [Supervised Learning: Credit Loan Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Give-Me-Some-Credit/Standardized%20Binomial%20Logistic%20Regression.ipynb): Testing out Binomial Logsistic Regression for Credit Loan.
+	- [Supervised Learning: Credit Loan Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Give-Me-Some-Credit/Standardized%20Binomial%20Logistic%20Regression.ipynb): Testing out Binomial Logistic Regression for Credit Loan.
 	
 	- [Supervised Learning: Customer Churn Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Customer%20Churn%20Prediction-ML/%20Customer%20Churn%20Prediction%20using%20Machine%20Learning.ipynb): A model to predict the classification of Customer Churn using various algorithm to find the best model for this dataset.
 	
