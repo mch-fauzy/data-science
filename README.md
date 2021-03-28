@@ -5,11 +5,13 @@ Repository containing portfolio of data science projects and notes completed by 
 
 - ### Machine Learning
 
+	- [Supervised Learning: Ames Housing Price Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Regression/Ames_Housing_Price_Prediction/Ames%20Housing%20Price%20Prediction_Elastic_Net.ipynb): A model to predict house prices using Elastic Net algorithms with 5-Fold Cross Validation.
+	
 	- [Supervised Learning: Business Decision Research](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Business_Decision_Research/Business%20Decision%20Research_Logistic%20Regression.ipynb): Exploratory Data Analysis and Logistic Regression modelling to determine customer churn, over a six-year period between 2013 and 2019
 	
 	- [Supervised Learning: Credit Loan Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Credit_Loan_Prediction/Credit%20Loan%20Prediction_Logistic%20Regression.ipynb): Testing out Binomial Logistic Regression for Credit Loan.
 	
-	- [Supervised Learning: Customer Churn Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Customer_Churn_Prediction/Customer_Churn_Prediction_Various_ML.ipynb): A model to predict the classification of Customer Churn using various algorithm to find the best model for this dataset.
+	- [Supervised Learning: Customer Churn Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Customer_Churn_Prediction/Customer_Churn_Prediction_Various_ML.ipynb): A model to predict the classification of Customer Churn using various algorithms to find the best model for this dataset.
 	
 	- [Supervised Learning: Iris Flower Species Classification](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Iris_Flower_Species_Classification/Iris%20Flower_KNN.ipynb): Classifying Iris Flower using K-Nearest Neighbors algorithm.
 	
@@ -33,4 +35,6 @@ Repository containing portfolio of data science projects and notes completed by 
 	- [3 - Matplotlib](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/3_Matplotlib/3%20-%20Matplotlib.ipynb)
 	- [4 - Seaborn Data Visualizations](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/4_Seaborn_Data_Visualizations/4%20-%20Seaborn%20Data%20Visualizations.ipynb)
 	- 5 - Linear Regression
+	- [6 - Feature Engineering](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/6_Feature_Engineering/6_Feature_Engineering_and_Data_Preparation.ipynb)
+	- [7 - Cross Validation and Grid Search](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/7_Cross_Validation_and_Grid_Search/7_Cross_Validation_and_Grid_Search.ipynb)
 	
