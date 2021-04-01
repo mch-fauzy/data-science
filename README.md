@@ -1,5 +1,5 @@
-# Data Science Portfolio
-Repository containing portfolio of data science projects and notes completed by me. Presented in the form of iPython Notebooks
+# Data Science and Machine Learning Portfolio
+Repository containing portfolio of Data Science/Machine Learning projects and notes completed by me. Presented in the form of iPython Notebooks
 
 ## Table of Contents
 
@@ -37,4 +37,4 @@ Repository containing portfolio of data science projects and notes completed by 
 	- [5 - Linear Regression](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/5_Linear_Regression/5_Linear_Regression.ipynb)
 	- [6 - Feature Engineering](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/6_Feature_Engineering/6_Feature_Engineering_and_Data_Preparation.ipynb)
 	- [7 - Cross Validation and Grid Search](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/7_Cross_Validation_and_Grid_Search/7_Cross_Validation_and_Grid_Search.ipynb)
-	
+	- [8 - Logistic Regression](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/8_Logistic_Regression/8_Logistic_Regression.ipynb)
