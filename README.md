@@ -18,17 +18,17 @@ Repository containing portfolio of Data Science/Machine Learning projects and no
 	- [Supervised Learning: Iris Flower Species Classification](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Iris_Flower_Species_Classification/Iris%20Flower_KNN.ipynb): A classification model that can predict Iris Flower Species using K-Nearest Neighbors.
 	
 	- [Supervised Learning: Rock-Paper-Scissor Image Recognition](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Rock_Paper_Scissor_Image_Recognition/Rock-Paper-Scissor_Tensorflow.ipynb): A classification model that can recognize images of the Rock-Paper-Scissor game using Tensorflow.
-	
-  	- [Unsupervised Learning: Customer Segmentation](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Unsupervised_Learning/Clustering/Customer_Segmentation/Customer%20Segmentation_KPrototypes.ipynb): A KPrototypes (Categorical) clustering model for customer segmentation and use it for custom dataset (automation purpose).
+
+	- [Unsupervised Learning: Customer Segmentation](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Unsupervised_Learning/Clustering/Customer_Segmentation/Customer%20Segmentation_KPrototypes.ipynb): A clustering model for customer segmentation based on purchase history and data of buyers using KPrototypes.
 
 
 - ### Data Analysis and Visualization
 
-	- [ASEAN Covid-19 Case Comparison](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/ASEAN_Covid_19_Case_Comparison_via_API/ASEAN%20Covid-19%20Case%20Comparison_via_API.ipynb): A visualization of Covid-19 cases in South East Asia (SEA), over a nine-month period between March 2020 and December 2020 (Using API to get the data).
+	- [ASEAN Covid-19 Case Comparison](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/ASEAN_Covid_19_Case_Comparison_via_API/ASEAN%20Covid-19%20Case%20Comparison_via_API.ipynb): A comparison of Covid-19 cases in ASEAN, over a nine-month period between March 2020 and December 2020 (Using API to get the data).
 	
 	- [Fandango Movie Site Review](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/Fandango_Movies_Site_Review/Fandango%20Movies%20Site%20Review.ipynb): A comparison of Fandango Ratings to Other Ratings Sites to determine if Fandango's ratings has a bias towards rating movies to sell more tickets or not.
 	
-	- [McD Nutrition Analysis](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/McD_Nutrition_Analysis/McD_Nutrition_Analysis.ipynb): Exploratory Data Analysis of the McDonalds Meals based on nutritional facts of that meals.
+	- [McD Nutrition Analysis](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/McD_Nutrition_Analysis/McD_Nutrition_Analysis.ipynb): A comparison of the McDonalds Meals based on nutritional facts of that meals.
 
 
 - ### Data Science Notes
