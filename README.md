@@ -5,21 +5,21 @@ Repository containing portfolio of Data Science/Machine Learning projects and no
 
 - ### Machine Learning
 
-	- [Supervised Learning: Ames Housing Price Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Regression/Ames_Housing_Price_Prediction/Ames%20Housing%20Price%20Prediction_Elastic_Net.ipynb): A regression model to predict house prices using Elastic Net algorithms with 5-Fold Cross Validation.
+	- [Supervised Learning-Ames Housing Price Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Regression/Ames_Housing_Price_Prediction/Ames%20Housing%20Price%20Prediction_Elastic_Net.ipynb): A regression model to predict house prices using Elastic Net algorithms with 5-Fold Cross Validation.
 	
-	- [Supervised Learning: Business Decision Research](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Business_Decision_Research/Business%20Decision%20Research_Logistic%20Regression.ipynb): A classification model to determine customer churn, over a six-year period between 2013 and 2019 using Logistic Regression
+	- [Supervised Learning-Business Decision Research](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Business_Decision_Research/Business%20Decision%20Research_Logistic%20Regression.ipynb): A classification model to determine customer churn, over a six-year period between 2013 and 2019 using Logistic Regression
 	
-	- [Supervised Learning: Credit Loan Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Credit_Loan_Prediction/Credit%20Loan%20Prediction_Logistic%20Regression.ipynb): A classification model that can predict credit loan eligibility using Logistic Regression.
+	- [Supervised Learning-Credit Loan Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Credit_Loan_Prediction/Credit%20Loan%20Prediction_Logistic%20Regression.ipynb): A classification model that can predict credit loan eligibility using Logistic Regression.
 	
-	- [Supervised Learning: Customer Churn Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Customer_Churn_Prediction/Customer_Churn_Prediction_Various_ML.ipynb): A classification model to predict wheter a customer is churn or not using various algorithms to find the best model for this dataset.
+	- [Supervised Learning-Customer Churn Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Customer_Churn_Prediction/Customer_Churn_Prediction_Various_ML.ipynb): A classification model to predict wheter a customer is churn or not using various algorithms to find the best model for this dataset.
 
-	- [Supervised Learning: Heart Disease Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Heart_Disease_Prediction/Heart%20Disease%20Prediction_Logistic%20Regression.ipynb): A classification model that can predict whether or not a person has presence of heart disease based on physical features of that person using Logistic Regression.
+	- [Supervised Learning-Heart Disease Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Heart_Disease_Prediction/Heart%20Disease%20Prediction_Logistic%20Regression.ipynb): A classification model that can predict whether or not a person has presence of heart disease based on physical features of that person using Logistic Regression.
 	
-	- [Supervised Learning: Iris Flower Species Classification](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Iris_Flower_Species_Classification/Iris%20Flower_KNN.ipynb): A classification model that can predict Iris Flower Species using K-Nearest Neighbors.
+	- [Supervised Learning-Iris Flower Species Classification](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Iris_Flower_Species_Classification/Iris%20Flower_KNN.ipynb): A classification model that can predict Iris Flower Species using K-Nearest Neighbors.
 	
-	- [Supervised Learning: Rock-Paper-Scissor Image Recognition](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Rock_Paper_Scissor_Image_Recognition/Rock-Paper-Scissor_Tensorflow.ipynb): A classification model that can recognize images of the Rock-Paper-Scissor game using Tensorflow.
+	- [Supervised Learning-Rock-Paper-Scissor Image Recognition](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Rock_Paper_Scissor_Image_Recognition/Rock-Paper-Scissor_Tensorflow.ipynb): A classification model that can recognize images of the Rock-Paper-Scissor game using Tensorflow.
 
-	- [Unsupervised Learning: Customer Segmentation](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Unsupervised_Learning/Clustering/Customer_Segmentation/Customer%20Segmentation_KPrototypes.ipynb): A clustering model for customer segmentation based on purchase history and data of buyers using KPrototypes.
+	- [Unsupervised Learning-Customer Segmentation](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Unsupervised_Learning/Clustering/Customer_Segmentation/Customer%20Segmentation_KPrototypes.ipynb): A clustering model for customer segmentation based on purchase history and data of buyers using KPrototypes.
 
 
 - ### Data Analysis and Visualization
