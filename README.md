@@ -5,7 +5,7 @@ Repository containing portfolio of Data Science/Machine Learning projects and no
 
 - ### Machine Learning
 
-	- [Supervised Learning: Ames Housing Price Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Regression/Ames_Housing_Price_Prediction/Ames%20Housing%20Price%20Prediction_Elastic_Net.ipynb) A regression model to predict house prices using Elastic Net algorithms with 5-Fold Cross Validation.
+	- [Supervised Learning: Ames Housing Price Prediction](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Regression/Ames_Housing_Price_Prediction/Ames%20Housing%20Price%20Prediction_Elastic%20Net.ipynb) A regression model to predict house prices using Elastic Net algorithms with 5-Fold Cross Validation.
 	
 	- [Supervised Learning: Business Decision Research](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Business_Decision_Research/Business%20Decision%20Research_Logistic%20Regression.ipynb) A classification model to determine customer churn, over a six-year period between 2013 and 2019 using Logistic Regression
 	
