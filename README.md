@@ -19,6 +19,8 @@ Repository containing portfolio of Data Science/Machine Learning projects and no
 	
 	- [Supervised Learning: Rock-Paper-Scissor Image Recognition](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Rock_Paper_Scissor_Image_Recognition/Rock-Paper-Scissor_Tensorflow.ipynb) A classification model that can recognize images of the Rock-Paper-Scissor game using Tensorflow.
 
+	- [Supervised Learning: Rock or Mine Classification](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Rock_or_Mine_Classification/Rock%20or%20Mine%20Classification_KNN.ipynb) A classification model that can distinguish the difference between a rock or a sea mine based on the response of the 60 separate sonar frequencies using K-Nearest Neighbors.
+
 	- [Unsupervised Learning: Customer Segmentation](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Unsupervised_Learning/Clustering/Customer_Segmentation/Customer%20Segmentation_KPrototypes.ipynb) A clustering model for customer segmentation based on purchase history and data of buyers using KPrototypes.
 
 
@@ -40,3 +42,4 @@ Repository containing portfolio of Data Science/Machine Learning projects and no
 	- [6 - Feature Engineering](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/6_Feature_Engineering/6_Feature_Engineering_and_Data_Preparation.ipynb)
 	- [7 - Cross Validation and Grid Search](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/7_Cross_Validation_and_Grid_Search/7_Cross_Validation_and_Grid_Search.ipynb)
 	- [8 - Logistic Regression](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/8_Logistic_Regression/8_Logistic_Regression.ipynb)
+	- [9 - K-Nearest Neighbors with Pipeline](https://github.com/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/9_K_Nearest_Neighbors_with_Pipeline/9_K_Nearest_Neighbors_with_Pipeline.ipynb)
