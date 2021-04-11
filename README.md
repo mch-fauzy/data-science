@@ -17,7 +17,7 @@ Repository containing portfolio of Data Science/Machine Learning projects and no
 	
 	- [Supervised Learning: Iris Flower Species Classification](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Iris_Flower_Species_Classification/Iris%20Flower_KNN.ipynb) A classification model that can predict Iris Flower Species using K-Nearest Neighbors.
 	
-	- [Supervised Learning: Rock-Paper-Scissor Image Recognition](https://github.com/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Rock_Paper_Scissor_Image_Recognition/Rock-Paper-Scissor_Tensorflow.ipynb) A classification model that can recognize images of the Rock-Paper-Scissor game using Tensorflow.
+	- [Supervised Learning: Rock-Paper-Scissor Image Recognition](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Rock_Paper_Scissor_Image_Recognition/Rock-Paper-Scissor_Tensorflow.ipynb) A classification model that can recognize images of the Rock-Paper-Scissor game using Tensorflow.
 
 	- [Supervised Learning: Rock or Mine Classification](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learing/Supervised_Learning/Classification/Rock_or_Mine_Classification/Rock%20or%20Mine%20Classification_KNN.ipynb) A classification model that can distinguish the difference between a rock or a sea mine based on the response of the 60 separate sonar frequencies using K-Nearest Neighbors.
 	
