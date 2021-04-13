@@ -46,3 +46,5 @@ Repository containing portfolio of Data Science/Machine Learning projects and no
 	- [8 - Logistic Regression](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/8_Logistic_Regression/8_Logistic_Regression.ipynb)
 	- [9 - K-Nearest Neighbors with Pipeline](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/9_K_Nearest_Neighbors_with_Pipeline/9_K_Nearest_Neighbors_with_Pipeline.ipynb)
 	- [10 - Support Vector Machines](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/10_Support_Vector_Machines/10%20-%20Support%20Vector%20Machines.ipynb)
+	- [11 - Decision Trees](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/11_Decision_Tree/11_Decision_Tree.ipynb)
+	- [12 - Random Forests](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/12_Random_Forest/12_Random_Forest.ipynb)
