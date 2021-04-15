@@ -15,7 +15,7 @@ Repository containing portfolio of Data Science/Machine Learning projects and no
 
 	- [Supervised Learning: Heart Disease Prediction](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Heart_Disease_Prediction/Heart%20Disease%20Prediction_Logistic%20Regression.ipynb) A classification model that can predict whether or not a person has presence of heart disease based on physical features of that person using Logistic Regression.
 	
-	- [Supervised Learning: Iris Flower Species Classification](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Iris_Flower_Species_Classification/Iris%20Flower_KNN.ipynb) A classification model that can predict Iris Flower Species using K-Nearest Neighbors.
+	- [Supervised Learning: Iris Flower Species Prediction](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Iris_Flower_Species_Classification/Iris%20Species%20Prediction_Logistic%20Regression.ipynb) A classification model that can predict Iris Flower Species using Logistic Regression.
 	
 	- [Supervised Learning: Rock-Paper-Scissor Image Recognition](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Rock_Paper_Scissor_Image_Recognition/Rock-Paper-Scissor_Tensorflow.ipynb) A classification model that can recognize images of the Rock-Paper-Scissor game using Tensorflow.
 
