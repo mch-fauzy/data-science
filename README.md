@@ -1,5 +1,6 @@
 # Data Science and Machine Learning Portfolio
-Repository containing portfolio of Data Science/Machine Learning projects and notes completed by me. Presented in the form of iPython Notebooks
+Repository containing portfolio of Data Science and Machine Learning projects completed by me. 
+It is presented in the form of iPython Notebooks.
 
 ## Table of Contents
 
