@@ -5,7 +5,7 @@ It is presented in the form of iPython Notebooks.
 
 ## **Table of Contents**
 
-- ### **A. Machine Learning**
+- ### **A. Data Science and Machine Learning**
 
 	- #### **Supervised Learning**
 
