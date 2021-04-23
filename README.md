@@ -1,13 +1,13 @@
-# Data Science and Machine Learning Portfolio
+# **Data Science and Machine Learning Portfolio**
 Repository containing portfolio of Data Science and Machine Learning projects completed by me. 
 
 It is presented in the form of iPython Notebooks.
 
-## Table of Contents
+## **Table of Contents**
 
-- ### Machine Learning
+- ### **A. Machine Learning**
 
-	- #### Supervised Learning
+	- #### **Supervised Learning**
 
 		- [Ames Housing Price Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Regression/Ames_Housing_Price_Prediction/Ames%20Housing%20Price%20Prediction_Elastic%20Net.ipynb) A regression model to predict house prices using Elastic Net algorithms with 5-Fold Cross Validation.
 	
@@ -27,12 +27,12 @@ It is presented in the form of iPython Notebooks.
 	
 		- [Wine Fraud Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Wine_Fraud_Prediction/Wine%20Fraud%20Prediction_SVM.ipynb) A classification model that can predict if a wine is "Legit" or "Fraud" based on various chemical features using Support Vector Machines.
 
-	- #### Unsupervised Learning
+	- #### **Unsupervised Learning**
 	
 		- [Customer Segmentation:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Unsupervised_Learning/Clustering/Customer_Segmentation/Customer%20Segmentation_KPrototypes.ipynb) A clustering model for customer segmentation based on purchase history and data of buyers using KPrototypes.
 
 
-- ### Data Analysis and Visualization
+- ### **B. Data Analysis and Visualization**
 
 	- [ASEAN Covid-19 Case Comparison](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/ASEAN_Covid_19_Case_Comparison_via_API/ASEAN%20Covid-19%20Case%20Comparison_via_API.ipynb) A comparison of Covid-19 cases in ASEAN, over a nine-month period between March 2020 and December 2020 (Using API to get the data).
 	
@@ -41,7 +41,7 @@ It is presented in the form of iPython Notebooks.
 	- [McD Nutrition Analysis](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/McD_Nutrition_Analysis/McD_Nutrition_Analysis.ipynb) A comparison of the McDonalds Meals based on nutritional facts of that meals.
 
 
-- ### Data Science Notes
+- ### **C. Data Science Notes**
 	- [1 - NumPy Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/1_Numpy/1%20-%20NumPy%20Overview.ipynb)
 	- [2 - Pandas Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/2_Pandas/2%20-%20Pandas%20Overview.ipynb)
 	- [3 - Matplotlib](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/3_Matplotlib/3%20-%20Matplotlib.ipynb)
