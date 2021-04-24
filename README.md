@@ -7,6 +7,8 @@ It is presented in the form of iPython Notebooks.
 
 - ### **Data Science and Machine Learning**
 
+---
+
 	- #### **Natural Language Processing (NLP)**
 
 	- #### **Image Recognition**
