@@ -8,6 +8,8 @@ It is presented in the form of iPython Notebooks.
 - ### **Data Science and Machine Learning**
 
 	- #### **Natural Language Processing (NLP)**
+	
+		- [Movie Reviews Sentiment Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Movie_Reviews_Sentiment_NLP/Movie%20Reviews%20Sentiment_NLP.ipynb) A classification model of raw text that can predict if a review is "Positive" or "Negative" using Linear Support Vector Classifier (SVC). In the future we could use such an algorithm to automatically flag review for a movies reviewer to help their judgment of movies final verdict.
 
 	- #### **Image Recognition**
 	
