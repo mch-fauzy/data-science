@@ -7,13 +7,11 @@ It is presented in the form of iPython Notebooks.
 
 - ### **Data Science and Machine Learning**
 
----
-
 	- #### **Natural Language Processing (NLP)**
 
 	- #### **Image Recognition**
 	
-		- [Rock-Paper-Scissor Image Recognition:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Rock_Paper_Scissor_Image_Recognition/Rock-Paper-Scissor_Tensorflow.ipynb) A classification model that can recognize images of the Rock-Paper-Scissor game using Tensorflow.
+		- [Rock-Paper-Scissor Image Recognition:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Rock_Paper_Scissor_Image_Recognition/Rock-Paper-Scissor_Tensorflow.ipynb) A classification model that can recognize images of the Rock-Paper-Scissor hand sign using Tensorflow.
 
 	- #### **Supervised Learning**
 
