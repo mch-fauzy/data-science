@@ -7,6 +7,12 @@ It is presented in the form of iPython Notebooks.
 
 - ### **A. Data Science and Machine Learning**
 
+	- #### **Natural Language Processing (NLP)**
+
+	- #### **Image Recognition**
+	
+		- [Rock-Paper-Scissor Image Recognition:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Rock_Paper_Scissor_Image_Recognition/Rock-Paper-Scissor_Tensorflow.ipynb) A classification model that can recognize images of the Rock-Paper-Scissor game using Tensorflow.
+
 	- #### **Supervised Learning**
 
 		- [Ames Housing Price Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Regression/Ames_Housing_Price_Prediction/Ames%20Housing%20Price%20Prediction_Elastic%20Net.ipynb) A regression model to predict house prices using Elastic Net algorithms with 5-Fold Cross Validation.
@@ -20,8 +26,6 @@ It is presented in the form of iPython Notebooks.
 		- [Heart Disease Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Heart_Disease_Prediction/Heart%20Disease%20Prediction_Logistic%20Regression.ipynb) A classification model that can predict whether or not a person has presence of heart disease based on physical features of that person using Logistic Regression.
 	
 		- [Iris Flower Species Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Iris_Flower_Species_Classification/Iris%20Species%20Prediction_Logistic%20Regression.ipynb) A classification model that can predict Iris Flower Species using Logistic Regression.
-	
-		- [Rock-Paper-Scissor Image Recognition:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Rock_Paper_Scissor_Image_Recognition/Rock-Paper-Scissor_Tensorflow.ipynb) A classification model that can recognize images of the Rock-Paper-Scissor game using Tensorflow.
 
 		- [Rock or Mine Classification:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Rock_or_Mine_Classification/Rock%20or%20Mine%20Classification_KNN.ipynb) A classification model that can distinguish the difference between a rock or a sea mine based on the response of the 60 separate sonar frequencies using K-Nearest Neighbors.
 	
