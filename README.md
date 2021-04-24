@@ -5,7 +5,7 @@ It is presented in the form of iPython Notebooks.
 
 ## **Table of Contents**
 
-- ### **A. Data Science and Machine Learning**
+- ### **Data Science and Machine Learning**
 
 	- #### **Natural Language Processing (NLP)**
 
@@ -36,7 +36,7 @@ It is presented in the form of iPython Notebooks.
 		- [Customer Segmentation:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Unsupervised_Learning/Clustering/Customer_Segmentation/Customer%20Segmentation_KPrototypes.ipynb) A clustering model for customer segmentation based on purchase history and data of buyers using KPrototypes.
 
 
-- ### **B. Data Analysis and Visualization**
+- ### **Data Analysis and Visualization**
 
 	- [ASEAN Covid-19 Case Comparison](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/ASEAN_Covid_19_Case_Comparison_via_API/ASEAN%20Covid-19%20Case%20Comparison_via_API.ipynb) A comparison of Covid-19 cases in ASEAN, over a nine-month period between March 2020 and December 2020 (Using API to get the data).
 	
@@ -45,7 +45,7 @@ It is presented in the form of iPython Notebooks.
 	- [McD Nutrition Analysis](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/McD_Nutrition_Analysis/McD_Nutrition_Analysis.ipynb) A comparison of the McDonalds Meals based on nutritional facts of that meals.
 
 
-- ### **C. Data Science Notes**
+- ### **Data Science Notes**
 	- [1 - NumPy Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/1_Numpy/1%20-%20NumPy%20Overview.ipynb)
 	- [2 - Pandas Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/2_Pandas/2%20-%20Pandas%20Overview.ipynb)
 	- [3 - Matplotlib](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/3_Matplotlib/3%20-%20Matplotlib.ipynb)
