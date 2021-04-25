@@ -22,15 +22,15 @@ It is presented in the form of iPython Notebooks.
 		- [Business Decision Research:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Business_Decision_Research/Business%20Decision%20Research_Logistic%20Regression.ipynb) A classification model to determine customer churn, over a six-year period between 2013 and 2019 using Logistic Regression
 	
 		- [Credit Loan Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Credit_Loan_Prediction/Credit%20Loan%20Prediction_Logistic%20Regression.ipynb) A classification model that can predict credit loan eligibility using Logistic Regression.
-	
-		- [Customer Churn Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Customer_Churn_Prediction/Customer_Churn_Prediction_Various_ML.ipynb) A classification model to predict wheter a customer is churn or not using various algorithms to find the best model for this dataset.
 
 		- [Heart Disease Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Heart_Disease_Prediction/Heart%20Disease%20Prediction_Logistic%20Regression.ipynb) A classification model that can predict whether or not a person has presence of heart disease based on physical features of that person using Logistic Regression.
 	
 		- [Iris Flower Species Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Iris_Flower_Species_Classification/Iris%20Species%20Prediction_Logistic%20Regression.ipynb) A classification model that can predict Iris Flower Species using Logistic Regression.
 
 		- [Rock or Mine Classification:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Rock_or_Mine_Classification/Rock%20or%20Mine%20Classification_KNN.ipynb) A classification model that can distinguish the difference between a rock or a sea mine based on the response of the 60 separate sonar frequencies using K-Nearest Neighbors.
-	
+
+		- [Telco Customer Churn Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Telco_Customer_Churn_Prediction/Telco%20Customer%20Churn%20Prediction_AdaBoost%20Oversampling.ipynb) A classification model to predict whether or not a customer will churn using Adaptive Boosting with SMOTE oversampling algorithm to deal with an imbalanced dataset.
+
 		- [Wine Fraud Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Wine_Fraud_Prediction/Wine%20Fraud%20Prediction_SVM.ipynb) A classification model that can predict if a wine is "Legit" or "Fraud" based on various chemical features using Support Vector Machines.
 
 	- #### **Unsupervised Learning**
