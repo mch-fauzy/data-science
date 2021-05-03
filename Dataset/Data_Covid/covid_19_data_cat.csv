@@ -1,0 +1,200 @@
+country,region,climate
+Afghanistan,Asia & Pacific,nontropic
+Albania,Europe,nontropic
+Algeria,Arab States,nontropic
+Andorra,Europe,nontropic
+Angola,Africa,tropic
+Antigua and Barbuda,South/Latin America,tropic
+Argentina,South/Latin America,nontropic
+Armenia,Europe,nontropic
+Aruba,South/Latin America,tropic
+Australia,Asia & Pacific,nontropic
+Austria,Europe,nontropic
+Azerbaijan,Asia & Pacific,nontropic
+Bahamas,South/Latin America,tropic
+Bahrain,Arab States,nontropic
+Bangladesh,Asia & Pacific,nontropic
+Barbados,South/Latin America,tropic
+Belarus,Europe,nontropic
+Belgium,Europe,nontropic
+Belize,South/Latin America,tropic
+Benin,Africa,tropic
+Bhutan,Asia & Pacific,nontropic
+Bolivia,South/Latin America,tropic
+Bosnia and Herzegovina,Europe,nontropic
+Botswana,Africa,nontropic
+Brazil,South/Latin America,tropic
+Brunei,Asia & Pacific,tropic
+Bulgaria,Europe,nontropic
+Burkina Faso,Africa,tropic
+Burma,Asia & Pacific,tropic
+Burundi,Africa,tropic
+Cambodia,Asia & Pacific,tropic
+Cameroon,Africa,tropic
+Canada,North America,nontropic
+Cape Verde,Africa,nontropic
+Cayman Islands,South/Latin America,tropic
+Central African Republic,Africa,tropic
+Chad,Africa,tropic
+Channel Islands,Europe,nontropic
+Chile,South/Latin America,nontropic
+Colombia,South/Latin America,tropic
+Congo,Africa,tropic
+Costa Rica,South/Latin America,tropic
+Croatia,Europe,nontropic
+Cuba,South/Latin America,tropic
+Curacao,Unknown,nontropic
+Cyprus,Europe,nontropic
+Czech Republic,Europe,nontropic
+Denmark,Europe,nontropic
+Djibouti,Arab States,tropic
+Dominica,South/Latin America,tropic
+Dominican Republic,South/Latin America,tropic
+Ecuador,South/Latin America,tropic
+Egypt,Middle east,nontropic
+El Salvador,South/Latin America,tropic
+Equatorial Guinea,Africa,tropic
+Eritrea,Africa,tropic
+Estonia,Europe,nontropic
+Eswatini,Africa,nontropic
+Ethiopia,Africa,tropic
+Faroe Islands,Europe,nontropic
+Fiji,Asia & Pacific,nontropic
+Finland,Europe,nontropic
+France,Europe,nontropic
+French Guiana,South/Latin America,tropic
+Gabon,Africa,tropic
+Gambia,Africa,tropic
+Georgia,Europe,nontropic
+Germany,Europe,nontropic
+Ghana,Africa,nontropic
+Gibraltar,Europe,nontropic
+Greece,Europe,nontropic
+Greenland,Europe,nontropic
+Grenada,South/Latin America,tropic
+Guadeloupe,South/Latin America,tropic
+Guam,Asia & Pacific,nontropic
+Guatemala,South/Latin America,tropic
+Guernsey,Europe,nontropic
+Guinea,Africa,tropic
+Guinea-Bissau,Africa,tropic
+Guyana,South/Latin America,tropic
+Haiti,South/Latin America,tropic
+Honduras,South/Latin America,tropic
+Hong Kong,Asia & Pacific,nontropic
+Hungary,Europe,nontropic
+Iceland,Europe,nontropic
+India,Asia & Pacific,tropic
+Indonesia,Asia & Pacific,tropic
+Iran,Middle east,nontropic
+Iraq,Middle east,nontropic
+Ireland,Europe,nontropic
+Israel,Europe,nontropic
+Italy,Europe,nontropic
+Ivory Coast,Africa,tropic
+Jamaica,South/Latin America,tropic
+Japan,Asia & Pacific,nontropic
+Jersey,Europe,nontropic
+Jordan,Middle east,nontropic
+Kazakhstan,Asia & Pacific,nontropic
+Kenya,Africa,tropic
+Kosovo,Europe,nontropic
+Kuwait,Middle east,nontropic
+Kyrgyzstan,Asia & Pacific,nontropic
+Laos,Asia & Pacific,tropic
+Latvia,Europe,nontropic
+Lebanon,Middle east,nontropic
+Liberia,Africa,tropic
+Libya,Middle east,nontropic
+Liechtenstein,Europe,nontropic
+Lithuania,Europe,nontropic
+Luxembourg,Europe,nontropic
+Macau,Asia & Pacific,nontropic
+Macedonia,Europe,nontropic
+Madagascar,Africa,tropic
+Mainland China,Asia & Pacific,nontropic
+Malawi,Africa,tropic
+Malaysia,Asia & Pacific,tropic
+Maldives,Asia & Pacific,nontropic
+Mali,Africa,tropic
+Malta,Europe,nontropic
+Martinique,South/Latin America,tropic
+Mauritania,Arab States,tropic
+Mauritius,Africa,tropic
+Mayotte,Africa,tropic
+Mexico,South/Latin America,tropic
+Moldova,Europe,nontropic
+Monaco,Europe,nontropic
+Mongolia,Asia & Pacific,nontropic
+Montenegro,Europe,nontropic
+Morocco,Arab States,nontropic
+Mozambique,Africa,tropic
+Namibia,Africa,nontropic
+Nepal,Asia & Pacific,nontropic
+Netherlands,Europe,nontropic
+New Zealand,Asia & Pacific,nontropic
+Nicaragua,South/Latin America,tropic
+Niger,Africa,tropic
+Nigeria,Africa,tropic
+Norway,Europe,nontropic
+Oman,Middle east,nontropic
+Pakistan,Asia & Pacific,nontropic
+Palestine,Arab States,nontropic
+Panama,South/Latin America,tropic
+Papua New Guinea,Asia & Pacific,nontropic
+Paraguay,South/Latin America,tropic
+Peru,South/Latin America,tropic
+Philippines,Asia & Pacific,tropic
+Poland,Europe,nontropic
+Portugal,Europe,nontropic
+Puerto Rico,South/Latin America,tropic
+Qatar,Middle east,nontropic
+Republic of the Congo,Africa,nontropic
+Reunion,Asia & Pacific,tropic
+Romania,Europe,nontropic
+Russia,Europe,nontropic
+Rwanda,Africa,tropic
+Saint Barthelemy,South/Latin America,tropic
+Saint Kitts and Nevis,South/Latin America,tropic
+Saint Lucia,South/Latin America,tropic
+Saint Vincent and the Grenadines,South/Latin America,tropic
+San Marino,Europe,nontropic
+Saudi Arabia,Middle east,nontropic
+Senegal,Africa,tropic
+Serbia,Europe,nontropic
+Seychelles,Africa,tropic
+Sierra Leone,Africa,tropic
+Singapore,Asia & Pacific,tropic
+Slovakia,Europe,nontropic
+Slovenia,Europe,nontropic
+Somalia,Arab States,tropic
+South Africa,Africa,nontropic
+South Korea,Asia & Pacific,nontropic
+Spain,Europe,nontropic
+Sri Lanka,Asia & Pacific,nontropic
+St. Martin,South/Latin America,tropic
+Sudan,Arab States,tropic
+Suriname,South/Latin America,tropic
+Sweden,Europe,nontropic
+Switzerland,Europe,nontropic
+Syria,Asia & Pacific,nontropic
+Taiwan,Asia & Pacific,nontropic
+Tanzania,Africa,tropic
+Thailand,Asia & Pacific,tropic
+Timor-Leste,Asia & Pacific,tropic
+Togo,Africa,tropic
+Trinidad and Tobago,South/Latin America,tropic
+Tunisia,Arab States,nontropic
+Turkey,Europe,nontropic
+Uganda,Africa,tropic
+UK,Europe,nontropic
+Ukraine,Europe,nontropic
+United Arab Emirates,Middle east,nontropic
+Uruguay,South/Latin America,nontropic
+US,North America,nontropic
+Uzbekistan,Asia & Pacific,nontropic
+Vatican,Europe,nontropic
+Venezuela,South/Latin America,tropic
+Vietnam,Asia & Pacific,tropic
+Zambia,Africa,tropic
+Zimbabwe,Africa,nontropic
