@@ -61,3 +61,4 @@ It is presented in the form of iPython Notebooks.
 	- [11 - Decision Trees](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/11_Decision_Tree/11_Decision_Tree.ipynb)
 	- [12 - Random Forests](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/12_Random_Forest/12_Random_Forest.ipynb)
 	- [13 - Boosted Trees](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/13_Boosted_Tree/13_Boosted_Tree.ipynb)
+	- [14 - Naive Bayes and NLP](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/14_Naive_Bayes_and_NLP/14%20-%20Naive%20Bayes%20and%20Natural%20Language%20Processing.ipynb)
