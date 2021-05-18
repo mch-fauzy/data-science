@@ -7,7 +7,7 @@ It is presented in the form of iPython Notebooks.
 
  ### **A. Data Analysis and Visualization**
 
-	- [ASEAN Covid-19 Case Comparison](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/ASEAN_Covid_19_Case_Comparison_via_API/ASEAN%20Covid-19%20Case%20Comparison_via_API.ipynb) A comparison of Covid-19 cases in ASEAN, over a nine-month period between March 2020 and December 2020 (Using API to get the data).
+- [ASEAN Covid-19 Case Comparison](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/ASEAN_Covid_19_Case_Comparison_via_API/ASEAN%20Covid-19%20Case%20Comparison_via_API.ipynb) A comparison of Covid-19 cases in ASEAN, over a nine-month period between March 2020 and December 2020 (Using API to get the data).
 	
 	- [Fandango Movie Site Review](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/Fandango_Movies_Site_Review/Fandango%20Movies%20Site%20Review.ipynb) A comparison of Fandango Ratings to Other Ratings Sites to determine if Fandango's ratings has a bias towards rating movies to sell more tickets or not.
 	
