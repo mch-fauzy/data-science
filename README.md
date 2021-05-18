@@ -14,7 +14,7 @@ It is presented in the form of iPython Notebooks.
 	- [McD Nutrition Analysis](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/McD_Nutrition_Analysis/McD_Nutrition_Analysis.ipynb) A comparison of the McDonalds Meals based on nutritional facts of that meals.
 
 
-- ### **B. Data Science and Machine Learning**
+- ### **B. Machine Learning**
 
 	- #### **Churn Prediction**
 	
@@ -59,7 +59,7 @@ It is presented in the form of iPython Notebooks.
 		- [Iris Flower Species Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Iris_Flower_Species_Classification/Iris%20Species%20Prediction_Logistic%20Regression.ipynb) A classification model that can predict Iris Flower Species using Logistic Regression.
 
 
-- ### **C. Data Science Notes**
+- ### **C. Notes**
 	- [1 - NumPy Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/1_Numpy/1%20-%20NumPy%20Overview.ipynb)
 	- [2 - Pandas Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/2_Pandas/2%20-%20Pandas%20Overview.ipynb)
 	- [3 - Matplotlib](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/3_Matplotlib/3%20-%20Matplotlib.ipynb)
