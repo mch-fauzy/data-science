@@ -26,6 +26,8 @@ It is presented in the form of iPython Notebooks.
 
   - #### **Clustering**
 	
+	  - [Country and Region Similarities:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Unsupervised_Learning/Clustering/Country_and_Region_Similarities/Country%20and%20Region%20Similarities_Kmeans%20Clustering.ipynb) A clustering model to gain insights into similarity between countries and regions of the world using K-Means Clustering.
+	  
 	  - [Customer Segmentation:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Unsupervised_Learning/Clustering/Customer_Segmentation/Customer%20Segmentation_KPrototypes.ipynb) A clustering model for customer segmentation based on purchase history and data of buyers using KPrototypes.
 
   - #### **Credit Scoring**
