@@ -77,3 +77,5 @@ It is presented in the form of iPython Notebooks.
   - [12 - Random Forests](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/12_Random_Forest/12_Random_Forest.ipynb)
   - [13 - Boosted Trees](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/13_Boosted_Tree/13_Boosted_Tree.ipynb)
   - [14 - Naive Bayes and NLP](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/14_Naive_Bayes_and_NLP/14%20-%20Naive%20Bayes%20and%20Natural%20Language%20Processing.ipynb)
+  - [15 - K-Means Clustering and Image Quantization](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/15_Kmeans_Clustering_and_Image_Quantization/15%20-%20Kmeans%20Clustering%20and%20Image%20Quantization.ipynb)
+
