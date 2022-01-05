@@ -1,17 +1,25 @@
-# **Data Science and Machine Learning Portfolio**
+# **Data Science**
 Repository containing portfolio of Data Science and Machine Learning projects completed by me. 
 
 It is presented in the form of iPython Notebooks.
 
-## **Table of Contents**
+## **Notes**
 
- ### **A. Notes**
-  - [1 - NumPy Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/1_Numpy/1%20-%20NumPy%20Overview.ipynb)
-  - [2 - Pandas Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/2_Pandas/2%20-%20Pandas%20Overview.ipynb)
-  - [3 - Matplotlib](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/3_Matplotlib/3%20-%20Matplotlib.ipynb)
-  - [4 - Seaborn Data Visualizations](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/4_Seaborn_Data_Visualizations/4%20-%20Seaborn%20Data%20Visualizations.ipynb)
+### 1. Fundamentals
+| No | Notebook | Description |
+|:---:|:---:|:---:|
+| 1 | [NumPy Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/1_Numpy/1%20-%20NumPy%20Overview.ipynb) | - |
+| 2 | [Pandas Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/2_Pandas/2%20-%20Pandas%20Overview.ipynb) | - |
+
+### 2. EDA - Data Preprocessing and Visualization
+| No | Notebook | Description |
+|:---:|:---:|:---:|
+| 1 | [Feature Engineering](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/6_Feature_Engineering/6_Feature_Engineering_and_Data_Preparation.ipynb) | - |
+| 2 | [Matplotlib](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/3_Matplotlib/3%20-%20Matplotlib.ipynb) | - |
+| 3 | [Seaborn Data Visualizations](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/4_Seaborn_Data_Visualizations/4%20-%20Seaborn%20Data%20Visualizations.ipynb) | - |
+
   - [5 - Linear Regression](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/5_Linear_Regression/5_Linear_Regression.ipynb)
-  - [6 - Feature Engineering](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/6_Feature_Engineering/6_Feature_Engineering_and_Data_Preparation.ipynb)
+
   - [7 - Cross Validation and Grid Search](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/7_Cross_Validation_and_Grid_Search/7_Cross_Validation_and_Grid_Search.ipynb)
   - [8 - Logistic Regression](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/8_Logistic_Regression/8_Logistic_Regression.ipynb)
   - [9 - K-Nearest Neighbors with Pipeline](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/9_K_Nearest_Neighbors_with_Pipeline/9_K_Nearest_Neighbors_with_Pipeline.ipynb)
@@ -22,7 +30,7 @@ It is presented in the form of iPython Notebooks.
   - [14 - Naive Bayes and NLP](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/14_Naive_Bayes_and_NLP/14%20-%20Naive%20Bayes%20and%20Natural%20Language%20Processing.ipynb)
   - [15 - K-Means Clustering and Image Quantization](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/15_Kmeans_Clustering_and_Image_Quantization/15%20-%20Kmeans%20Clustering%20and%20Image%20Quantization.ipynb)
  
- ### **B. Exploratory Data Analysis**
+ ## **Exploratory Data Analysis Example**
  
 | No | Notebook | Description |
 |:---:|:---:|:---:|
@@ -32,7 +40,7 @@ It is presented in the form of iPython Notebooks.
 
 
 
- ### **C. Machine Learning**
+ ## **Machine Learning Example**
 
   - #### **Churn Prediction**
 	
