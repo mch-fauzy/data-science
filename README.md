@@ -8,8 +8,8 @@ It is presented in the form of iPython Notebooks.
 ### 1. Fundamentals
 | No | Notebook | Description |
 |:---:|:---:|:---:|
-| 1 | [NumPy Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/1_Numpy/1%20-%20NumPy%20Overview.ipynb) | - |
-| 2 | [Pandas Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/2_Pandas/2%20-%20Pandas%20Overview.ipynb) | - |
+| 1 | [NumPy Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/References/00_Fundamentals/01_NumPy/01_NumPy_Overview.ipynb) | - |
+| 2 | [Pandas Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/References/00_Fundamentals/02_Pandas/01_Pandas_Overview.ipynb) | - |
 
 ### 2. EDA - Data Preprocessing and Visualization
 | No | Notebook | Description |
