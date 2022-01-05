@@ -14,21 +14,23 @@ It is presented in the form of iPython Notebooks.
 ### 2. EDA - Data Preprocessing and Visualization
 | No | Notebook | Description |
 |:---:|:---:|:---:|
-| 1 | [Feature Engineering](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/6_Feature_Engineering/6_Feature_Engineering_and_Data_Preparation.ipynb) | - |
-| 2 | [Matplotlib](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/3_Matplotlib/3%20-%20Matplotlib.ipynb) | - |
-| 3 | [Seaborn Data Visualizations](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/4_Seaborn_Data_Visualizations/4%20-%20Seaborn%20Data%20Visualizations.ipynb) | - |
+| 1 | [Matplotlib Overview](https://colab.research.google.com/drive/1b9uwlxBeYkqujx9HvmXrC94AmbUaNGuJ?usp=sharing) | - |
+| 2 | [Seaborn Overview](https://colab.research.google.com/drive/16b9piRc-L8xl9LAbnVqQEyEWJFz2nK0M?usp=sharing) | - |
+| 3 | [Feature Engineering: Variable Types & Characteristics](https://colab.research.google.com/drive/1EvJm2lAtO4y2HWjYaTjGBgCj5SnZpJ-E?usp=sharing) | - |
+| 4 | [Feature Engineering: Missing Data Imputation](https://colab.research.google.com/drive/1IY3DdzPE5rlJWBfrxkBwGCH_TfrVOzxo?usp=sharing) | - |
 
-  - [5 - Linear Regression](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/5_Linear_Regression/5_Linear_Regression.ipynb)
 
-  - [7 - Cross Validation and Grid Search](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/7_Cross_Validation_and_Grid_Search/7_Cross_Validation_and_Grid_Search.ipynb)
-  - [8 - Logistic Regression](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/8_Logistic_Regression/8_Logistic_Regression.ipynb)
-  - [9 - K-Nearest Neighbors with Pipeline](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/9_K_Nearest_Neighbors_with_Pipeline/9_K_Nearest_Neighbors_with_Pipeline.ipynb)
-  - [10 - Support Vector Machines](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/10_Support_Vector_Machines/10%20-%20Support%20Vector%20Machines.ipynb)
-  - [11 - Decision Trees](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/11_Decision_Tree/11_Decision_Tree.ipynb)
-  - [12 - Random Forests](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/12_Random_Forest/12_Random_Forest.ipynb)
-  - [13 - Boosted Trees](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/13_Boosted_Tree/13_Boosted_Tree.ipynb)
-  - [14 - Naive Bayes and NLP](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/14_Naive_Bayes_and_NLP/14%20-%20Naive%20Bayes%20and%20Natural%20Language%20Processing.ipynb)
-  - [15 - K-Means Clustering and Image Quantization](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/15_Kmeans_Clustering_and_Image_Quantization/15%20-%20Kmeans%20Clustering%20and%20Image%20Quantization.ipynb)
+  - [Linear Regression](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/5_Linear_Regression/5_Linear_Regression.ipynb)
+
+  - [Cross Validation and Grid Search](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/7_Cross_Validation_and_Grid_Search/7_Cross_Validation_and_Grid_Search.ipynb)
+  - [Logistic Regression](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/8_Logistic_Regression/8_Logistic_Regression.ipynb)
+  - [K-Nearest Neighbors with Pipeline](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/9_K_Nearest_Neighbors_with_Pipeline/9_K_Nearest_Neighbors_with_Pipeline.ipynb)
+  - [Support Vector Machines](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/10_Support_Vector_Machines/10%20-%20Support%20Vector%20Machines.ipynb)
+  - [Decision Trees](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/11_Decision_Tree/11_Decision_Tree.ipynb)
+  - [Random Forests](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/12_Random_Forest/12_Random_Forest.ipynb)
+  - [Boosted Trees](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/13_Boosted_Tree/13_Boosted_Tree.ipynb)
+  - [Naive Bayes and NLP](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/14_Naive_Bayes_and_NLP/14%20-%20Naive%20Bayes%20and%20Natural%20Language%20Processing.ipynb)
+  - [K-Means Clustering and Image Quantization](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/15_Kmeans_Clustering_and_Image_Quantization/15%20-%20Kmeans%20Clustering%20and%20Image%20Quantization.ipynb)
  
  ## **Exploratory Data Analysis Example**
  
