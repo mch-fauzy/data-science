@@ -8,7 +8,7 @@ It is presented in the form of iPython Notebooks.
 ### 1. Fundamentals
 | No | Notebook | Description |
 |:---:|:---:|:---:|
-| 1 | [NumPy Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/References/00_Fundamentals/01_NumPy/01_NumPy_Overview.ipynb) | - |
+| 1 | [NumPy Overview](https://colab.research.google.com/drive/1YRWMpcxp5iU-Mb0wYRuLc2D2VOxQMl2X?usp=sharing) | - |
 | 2 | [Pandas Overview](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/References/00_Fundamentals/02_Pandas/01_Pandas_Overview.ipynb) | - |
 
 ### 2. EDA - Data Preprocessing and Visualization
