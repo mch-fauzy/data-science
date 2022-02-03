@@ -8,41 +8,29 @@ It is presented in the form of iPython Notebooks.
 ### 1. Fundamentals
 | No | Notebook | Description |
 |:---:|:---:|:---:|
-| 1 | [NumPy Overview](https://colab.research.google.com/drive/1YRWMpcxp5iU-Mb0wYRuLc2D2VOxQMl2X?usp=sharing) | - |
-| 2 | [Pandas Overview](https://colab.research.google.com/drive/1HPGrvVt8_PKE5EULP5QfzFPwKJUQaHnl?usp=sharing) | - |
+| 1 | [NumPy Overview](https://colab.research.google.com/drive/1YRWMpcxp5iU-Mb0wYRuLc2D2VOxQMl2X?usp=sharing) | Overview of how to use numpy |
+| 2 | [Pandas Overview](https://colab.research.google.com/drive/1HPGrvVt8_PKE5EULP5QfzFPwKJUQaHnl?usp=sharing) | Overview of how to use pandas |
 
 ### 2. EDA - Data Preprocessing and Visualization
 | No | Notebook | Description |
 |:---:|:---:|:---:|
-| 1 | [Matplotlib Overview](https://colab.research.google.com/drive/1b9uwlxBeYkqujx9HvmXrC94AmbUaNGuJ?usp=sharing) | - |
-| 2 | [Seaborn Overview](https://colab.research.google.com/drive/16b9piRc-L8xl9LAbnVqQEyEWJFz2nK0M?usp=sharing) | - |
-| 3 | [Feature Engineering: Variable Types & Characteristics](https://colab.research.google.com/drive/1EvJm2lAtO4y2HWjYaTjGBgCj5SnZpJ-E?usp=sharing) | - |
-| 4 | [Feature Engineering: Missing Data Imputation](https://colab.research.google.com/drive/1IY3DdzPE5rlJWBfrxkBwGCH_TfrVOzxo?usp=sharing) | - |
+| 1 | [Matplotlib Overview](https://colab.research.google.com/drive/1b9uwlxBeYkqujx9HvmXrC94AmbUaNGuJ?usp=sharing) | Overview how to use matplotlib data visualization |
+| 2 | [Seaborn Overview](https://colab.research.google.com/drive/16b9piRc-L8xl9LAbnVqQEyEWJFz2nK0M?usp=sharing) | Overview of how to use seaborn data visualization |
+| 3 | [Feature Engineering: Variable Types & Characteristics](https://colab.research.google.com/drive/1EvJm2lAtO4y2HWjYaTjGBgCj5SnZpJ-E?usp=sharing) | Data type and data assumptions |
+| 4 | [Feature Engineering: Missing Data Imputation](https://colab.research.google.com/drive/1IY3DdzPE5rlJWBfrxkBwGCH_TfrVOzxo?usp=sharing) | Collections of missing data imputation technique |
 
 
-  - [Linear Regression](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/5_Linear_Regression/5_Linear_Regression.ipynb)
-
-  - [Cross Validation and Grid Search](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/7_Cross_Validation_and_Grid_Search/7_Cross_Validation_and_Grid_Search.ipynb)
-  - [Logistic Regression](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/8_Logistic_Regression/8_Logistic_Regression.ipynb)
-  - [K-Nearest Neighbors with Pipeline](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/9_K_Nearest_Neighbors_with_Pipeline/9_K_Nearest_Neighbors_with_Pipeline.ipynb)
-  - [Support Vector Machines](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/10_Support_Vector_Machines/10%20-%20Support%20Vector%20Machines.ipynb)
-  - [Decision Trees](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/11_Decision_Tree/11_Decision_Tree.ipynb)
-  - [Random Forests](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/12_Random_Forest/12_Random_Forest.ipynb)
-  - [Boosted Trees](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/13_Boosted_Tree/13_Boosted_Tree.ipynb)
-  - [Naive Bayes and NLP](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/14_Naive_Bayes_and_NLP/14%20-%20Naive%20Bayes%20and%20Natural%20Language%20Processing.ipynb)
-  - [K-Means Clustering and Image Quantization](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Science_Notes/15_Kmeans_Clustering_and_Image_Quantization/15%20-%20Kmeans%20Clustering%20and%20Image%20Quantization.ipynb)
- 
- ## **Exploratory Data Analysis Example**
- 
+### 3. Machine Learning
 | No | Notebook | Description |
 |:---:|:---:|:---:|
-| 1 | [ASEAN Covid-19 Case Comparison](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/ASEAN_Covid_19_Case_Comparison_via_API/ASEAN%20Covid-19%20Case%20Comparison_via_API.ipynb) | A comparison of Covid-19 cases in ASEAN, over a nine-month period between March 2020 and December 2020 (Using API to get the data).|
-| 2 | [Fandango Movie Site Review](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/Fandango_Movies_Site_Review/Fandango%20Movies%20Site%20Review.ipynb) | A comparison of Fandango Ratings to Other Ratings Sites to determine if Fandango's ratings has a bias towards rating movies to sell more tickets or not. |	
-| 3 | [McD Nutrition Analysis](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Data_Analysis_and_Visualization/McD_Nutrition_Analysis/McD_Nutrition_Analysis.ipynb) | A comparison of the McDonalds Meals based on nutritional facts of that meals.|
+| 1 | [Linear Regression](https://colab.research.google.com/drive/1NXfY9ZrG4B0MeOeiOS2lSR1M3kU_Tdgi?usp=sharing) | Sales prediction based on advertising amount |
+| 2 | [Logistic Regression](https://colab.research.google.com/drive/1z7IEkjy3LA3CBiANwMkNcZFKOKTPh2Rr?usp=sharing) | Loan eligibility classification |
+| 3 | [XGBoost](https://colab.research.google.com/drive/1SvDAp7kGt6bQhZEDkZ2fs5LCr0NY8KR-?usp=sharing) | Credit scoring classification |
+| 4 | [Kmeans](https://colab.research.google.com/drive/1asEq0etXoQUO5Y6J1Jvbktib3Hcus4xN?usp=sharing) | Debtors behaviour clustering |
 
+ 
 
-
- ## **Machine Learning Example**
+ ## **Unarchived**
 
   - #### **Churn Prediction**
 	
@@ -79,14 +67,6 @@ It is presented in the form of iPython Notebooks.
   - #### **Natural Language Processing (NLP)**
 	
 	  - [Movie Reviews Sentiment Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Movie_Reviews_Sentiment_NLP/Movie%20Reviews%20Sentiment_NLP.ipynb) A classification model of raw text that can predict if a review is "Positive" or "Negative" using Linear Support Vector Classifier (SVC). In the future we could use such an algorithm to automatically flag review for a movies reviewer to help their judgment of movies final verdict.
-
-  - #### **Price Prediction**
-
-	  - [Ames Housing Price Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Regression/Ames_Housing_Price_Prediction/Ames%20Housing%20Price%20Prediction_Elastic%20Net.ipynb) A regression model to predict house prices using Elastic Net algorithms with 5-Fold Cross Validation.
-		
-  - #### **Species Classification**
-	
-	  - [Iris Flower Species Prediction:](https://nbviewer.jupyter.org/github/mch-fauzy/Data-Science/blob/main/Machine_Learning/Supervised_Learning/Classification/Iris_Flower_Species_Classification/Iris%20Species%20Prediction_Logistic%20Regression.ipynb) A classification model that can predict Iris Flower Species using Logistic Regression.
 
 
 
