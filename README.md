@@ -28,7 +28,7 @@ It is presented in the form of iPython Notebooks.
 | 2 | [Logistic Regression](https://colab.research.google.com/drive/1z7IEkjy3LA3CBiANwMkNcZFKOKTPh2Rr?usp=sharing) | Loan eligibility classification |
 | 3 | [XGBoost](https://colab.research.google.com/drive/1SvDAp7kGt6bQhZEDkZ2fs5LCr0NY8KR-?usp=sharing) | Credit scoring classification |
 | 4 | [Kmeans](https://colab.research.google.com/drive/1asEq0etXoQUO5Y6J1Jvbktib3Hcus4xN?usp=sharing) | Debtors behaviour clustering |
-| 5 | [SARIMA Forecasting](https://drive.google.com/file/d/1hl33KG6d7VRllXVqJCOe1m1wTo049I2v/view?usp=sharing) | Number of plane passengers seasonal forecasting |
+| 5 | [SARIMA Forecasting](https://drive.google.com/file/d/1hl33KG6d7VRllXVqJCOe1m1wTo049I2v/view?usp=sharing) | Number of plane passengers seasonal forecasting using Walk-Forward Validation|
 
 
 
