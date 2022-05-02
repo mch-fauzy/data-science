@@ -16,7 +16,7 @@ It is presented in the form of iPython Notebooks.
 |:---:|:---:|:---:|
 | 1 | [Matplotlib Overview](https://colab.research.google.com/drive/1b9uwlxBeYkqujx9HvmXrC94AmbUaNGuJ?usp=sharing) | Overview how to use matplotlib data visualization |
 | 2 | [Seaborn Overview](https://colab.research.google.com/drive/16b9piRc-L8xl9LAbnVqQEyEWJFz2nK0M?usp=sharing) | Overview of how to use seaborn data visualization |
-| 3 | [Feature Engineering: Variable Types & Characteristics](https://colab.research.google.com/drive/1EvJm2lAtO4y2HWjYaTjGBgCj5SnZpJ-E?usp=sharing) | Data type and data assumptions |
+| 3 | [Feature Engineering: Variable Types & Characteristics](https://colab.research.google.com/drive/1EvJm2lAtO4y2HWjYaTjGBgCj5SnZpJ-E?usp=sharing) | Collections of variables type and characteristics, such as MNAR, MCAR, MAR, cardinality, distributions, linear model assumptions, outliers, and variable magnitude |
 | 4 | [Feature Engineering: Univariate Missing Data Imputation](https://colab.research.google.com/drive/1IY3DdzPE5rlJWBfrxkBwGCH_TfrVOzxo?usp=sharing) | Collections of univariate missing data imputation technique, such as mean median mode, aribitrary, end of distribution, random sample and many more |
 | 5 | [Feature Engineering: Multivariate Missing Data Imputation](https://colab.research.google.com/drive/13P_R6Bn5n38vbxjSbXeQGef1xe_14jz1?usp=sharing) | KNN and MICE multivariate missing data imputation |
 
