@@ -19,7 +19,8 @@ It is presented in the form of iPython Notebooks.
 | 3 | [Feature Engineering: Variable Types & Characteristics](https://colab.research.google.com/drive/1EvJm2lAtO4y2HWjYaTjGBgCj5SnZpJ-E?usp=sharing) | Collections of variables type and characteristics, such as MNAR, MCAR, MAR, cardinality, distributions, linear model assumptions, outliers, and variable magnitude |
 | 4 | [Feature Engineering: Univariate Missing Data Imputation](https://colab.research.google.com/drive/1IY3DdzPE5rlJWBfrxkBwGCH_TfrVOzxo?usp=sharing) | Collections of univariate missing data imputation technique, such as mean median mode, aribitrary, end of distribution, random sample, and many more |
 | 5 | [Feature Engineering: Multivariate Missing Data Imputation](https://colab.research.google.com/drive/13P_R6Bn5n38vbxjSbXeQGef1xe_14jz1?usp=sharing) | KNN and MICE multivariate missing data imputation |
-| 6 | [Feature Selection: Filter Methods](https://colab.research.google.com/drive/1x-jmUbMIcQSXA4TUu1E2musdy9rf669t?usp=sharing) | Collection of feature selection filter methods, such as, constant, quasi-constant, duplicated features pair, multi-collinearity, mutual information, ANOVA, and many more |
+| 6 | [Feature Engineering: Categorical Encoding](https://colab.research.google.com/drive/1xWjH3ZsfDdefdygz6lwL8luK0MeyTTtL?usp=sharing) | Collection of categorical encoding techniques, such as rare label encoding, one hot encoding, woe encoding, and other monotonic relationship encoding |
+| 7 | [Feature Selection: Filter Methods](https://colab.research.google.com/drive/1x-jmUbMIcQSXA4TUu1E2musdy9rf669t?usp=sharing) | Collection of feature selection filter methods, such as, constant, quasi-constant, duplicated features pair, multi-collinearity, mutual information, ANOVA, and many more |
 
 
 ### 3. Modelling
