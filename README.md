@@ -28,12 +28,12 @@ It is presented in the form of iPython Notebooks.
 ### 3. Modelling
 | No | Notebook | Report | Description |
 |:---:|:---:|:---:|:---:|
-| 1 | [Linear Regression](https://colab.research.google.com/drive/1NXfY9ZrG4B0MeOeiOS2lSR1M3kU_Tdgi?usp=sharing) | - | Sales prediction based on advertising amount |
-| 2 | [Logistic Regression](https://colab.research.google.com/drive/1z7IEkjy3LA3CBiANwMkNcZFKOKTPh2Rr?usp=sharing) | - | Loan eligibility classification |
-| 3 | [XGBoost](https://colab.research.google.com/drive/1SvDAp7kGt6bQhZEDkZ2fs5LCr0NY8KR-?usp=sharing) | [PDF](https://drive.google.com/file/d/1_0RFirKnMPwmKbVvZRUi3P-os1XA0uz8/view?usp=sharing) |Non-performing loan classification with SHAP model explainability|
-| 4 | [Light GBM](https://drive.google.com/file/d/1MYM8XTz-SFDcz27IkZlyuS7wOJ980g1R/view?usp=sharing) | [PDF](https://drive.google.com/file/d/1aU826Opix76xGCgEUkqe7myB2cGGaWSm/view?usp=sharing) |Credit Default Risk classification and Debtors Grading|
-| 5 | [Kmeans](https://colab.research.google.com/drive/1asEq0etXoQUO5Y6J1Jvbktib3Hcus4xN?usp=sharing) | - | Debtors behaviour clustering |
-| 6 | [SARIMA Forecasting](https://drive.google.com/file/d/1hl33KG6d7VRllXVqJCOe1m1wTo049I2v/view?usp=sharing) | - | Number of plane passengers seasonal forecasting using Walk-Forward Validation|
+| 1 | [Sales Advertising_Linear Regression](https://colab.research.google.com/drive/1NXfY9ZrG4B0MeOeiOS2lSR1M3kU_Tdgi?usp=sharing) | - | Sales prediction based on advertising amount |
+| 2 | [Credit Eligibility_Logistic Regression](https://colab.research.google.com/drive/1z7IEkjy3LA3CBiANwMkNcZFKOKTPh2Rr?usp=sharing) | - | Loan eligibility classification |
+| 3 | [Credit Default Risk_Finhack 2018_XGBoost](https://colab.research.google.com/drive/1SvDAp7kGt6bQhZEDkZ2fs5LCr0NY8KR-?usp=sharing) | [PDF](https://drive.google.com/file/d/1_0RFirKnMPwmKbVvZRUi3P-os1XA0uz8/view?usp=sharing) |Non-performing loan classification with SHAP model explainability|
+| 4 | [Credit Default Risk_Home Credit_Light GBM](https://drive.google.com/file/d/1MYM8XTz-SFDcz27IkZlyuS7wOJ980g1R/view?usp=sharing) | [PDF](https://drive.google.com/file/d/1aU826Opix76xGCgEUkqe7myB2cGGaWSm/view?usp=sharing) |Credit Default Risk classification and Debtors Grading|
+| 5 | [Credit User Segmentation_Kmeans](https://colab.research.google.com/drive/1asEq0etXoQUO5Y6J1Jvbktib3Hcus4xN?usp=sharing) | - | Debtors behaviour clustering |
+| 6 | [Airplane Passengers_SARIMA Forecasting](https://drive.google.com/file/d/1hl33KG6d7VRllXVqJCOe1m1wTo049I2v/view?usp=sharing) | - | Number of plane passengers seasonal forecasting using Walk-Forward Validation|
 
 
 
