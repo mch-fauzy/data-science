@@ -34,6 +34,8 @@ It is presented in the form of iPython Notebooks.
 | 4 | [Credit Default Risk_Home Credit_Light GBM](https://drive.google.com/file/d/1MYM8XTz-SFDcz27IkZlyuS7wOJ980g1R/view?usp=sharing) | [PDF](https://drive.google.com/file/d/1aU826Opix76xGCgEUkqe7myB2cGGaWSm/view?usp=sharing) |Credit Default Risk classification and Debtors Grading|
 | 5 | [Credit User Segmentation_Kmeans](https://colab.research.google.com/drive/1asEq0etXoQUO5Y6J1Jvbktib3Hcus4xN?usp=sharing) | - | Credit users behavior clustering |
 | 6 | [Airplane Passengers_SARIMA Forecasting](https://drive.google.com/file/d/1hl33KG6d7VRllXVqJCOe1m1wTo049I2v/view?usp=sharing) | - | Number of plane passengers seasonal forecasting using Walk-Forward Validation|
+| 7 | [Article Topic Classification_Kumparan_Light GBM](https://drive.google.com/file/d/1ybXWQpMZVKzLur2fqz35h9Ta7gtyU9kz/view?usp=sharing) | [PDF](https://drive.google.com/file/d/1gYbTRkt3xad5pGgHwz0p4Q4ToFOcoW_l/view?usp=sharing) | Build a model to classify article topics based on their content using TF-IDF vectorization|
+| 8 | [Book Recommendation System_Content and Item-based Collaborative Filtering](https://colab.research.google.com/drive/11qaT_C3FFN3symuzyTYOE48Cq50BNC_d?usp=sharing) | [PDF](https://drive.google.com/file/d/1gsjt_2edyhbof2Lh6h093KeVp0RP-np_/view?usp=sharing) | Build a book recommendation system to help users choose their books based on the books they have purchased|
 
 
 
