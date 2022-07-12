@@ -13,7 +13,7 @@ It is presented in the form of iPython Notebooks and PDF.
 | 3 | [Matplotlib Overview](https://colab.research.google.com/drive/1b9uwlxBeYkqujx9HvmXrC94AmbUaNGuJ?usp=sharing) | Overview how to use matplotlib data visualization|
 | 4 | [Seaborn Overview](https://colab.research.google.com/drive/16b9piRc-L8xl9LAbnVqQEyEWJFz2nK0M?usp=sharing) | Overview of how to use seaborn data visualization |
 
-### 2. EDA - Data Preparataion and Preprocessing
+### 2. EDA - Data Preparation and Preprocessing
 | No | Notebook | Description |
 |:---:|:---:|:---:|
 | 1 | [Feature Engineering: Variable Types & Characteristics](https://colab.research.google.com/drive/1EvJm2lAtO4y2HWjYaTjGBgCj5SnZpJ-E?usp=sharing) | Collections of variables type and characteristics, such as MNAR, MCAR, MAR, cardinality, distributions, linear model assumptions, outliers, and variable magnitude |
