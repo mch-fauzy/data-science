@@ -1,7 +1,7 @@
 # **Data Science Handbook**
-Repository containing portfolio of Data Science and Machine Learning projects completed by me. 
+Repository containing portfolio of Data Science and Machine Learning projects. 
 
-It is presented in the form of iPython Notebooks.
+It is presented in the form of iPython Notebooks and PDF.
 
 ## **Notes**
 
@@ -10,19 +10,19 @@ It is presented in the form of iPython Notebooks.
 |:---:|:---:|:---:|
 | 1 | [NumPy Overview](https://colab.research.google.com/drive/1YRWMpcxp5iU-Mb0wYRuLc2D2VOxQMl2X?usp=sharing) | Overview of how to use numpy |
 | 2 | [Pandas Overview](https://colab.research.google.com/drive/1HPGrvVt8_PKE5EULP5QfzFPwKJUQaHnl?usp=sharing) | Overview of how to use pandas |
+| 3 | [Matplotlib Overview](https://colab.research.google.com/drive/1b9uwlxBeYkqujx9HvmXrC94AmbUaNGuJ?usp=sharing) | Overview how to use matplotlib data visualization|
+| 4 | [Seaborn Overview](https://colab.research.google.com/drive/16b9piRc-L8xl9LAbnVqQEyEWJFz2nK0M?usp=sharing) | Overview of how to use seaborn data visualization |
 
 ### 2. EDA - Data Preprocessing and Visualization
 | No | Notebook | Description |
 |:---:|:---:|:---:|
-| 1 | [Matplotlib Overview](https://colab.research.google.com/drive/1b9uwlxBeYkqujx9HvmXrC94AmbUaNGuJ?usp=sharing) | Overview how to use matplotlib data visualization |
-| 2 | [Seaborn Overview](https://colab.research.google.com/drive/16b9piRc-L8xl9LAbnVqQEyEWJFz2nK0M?usp=sharing) | Overview of how to use seaborn data visualization |
-| 3 | [Feature Engineering: Variable Types & Characteristics](https://colab.research.google.com/drive/1EvJm2lAtO4y2HWjYaTjGBgCj5SnZpJ-E?usp=sharing) | Collections of variables type and characteristics, such as MNAR, MCAR, MAR, cardinality, distributions, linear model assumptions, outliers, and variable magnitude |
-| 4 | [Feature Engineering: Univariate Missing Data Imputation](https://colab.research.google.com/drive/1IY3DdzPE5rlJWBfrxkBwGCH_TfrVOzxo?usp=sharing) | Collections of univariate missing data imputation technique, such as mean median mode, aribitrary, end of distribution, random sample, and many more |
-| 5 | [Feature Engineering: Multivariate Missing Data Imputation](https://colab.research.google.com/drive/13P_R6Bn5n38vbxjSbXeQGef1xe_14jz1?usp=sharing) | KNN and MICE multivariate missing data imputation |
-| 6 | [Feature Engineering: Categorical Encoding](https://colab.research.google.com/drive/1xWjH3ZsfDdefdygz6lwL8luK0MeyTTtL?usp=sharing) | Collection of categorical encoding techniques, such as rare label encoding, one hot encoding, woe encoding, and other monotonic relationship encoding |
-| 7 | [Feature Engineering: Variable Transformation](https://colab.research.google.com/drive/13v0lvNMU9kU-5IzyvYo1XKXERIQmKCEB?usp=sharing) | Collection of variable transformation techniques to transform non-gaussian distribution for linear model, such as log transformer, box-cox transformer, yeo-johnson transformer |
-| 8 | [Feature Engineering: Discretization] | Coming Soon |
-| 9 | [Feature Selection: Filter Methods](https://colab.research.google.com/drive/1x-jmUbMIcQSXA4TUu1E2musdy9rf669t?usp=sharing) | Collection of feature selection filter methods, such as, constant, quasi-constant, duplicated features pair, multi-collinearity, mutual information, ANOVA, and many more |
+| 1 | [Feature Engineering: Variable Types & Characteristics](https://colab.research.google.com/drive/1EvJm2lAtO4y2HWjYaTjGBgCj5SnZpJ-E?usp=sharing) | Collections of variables type and characteristics, such as MNAR, MCAR, MAR, cardinality, distributions, linear model assumptions, outliers, and variable magnitude |
+| 2 | [Feature Engineering: Univariate Missing Data Imputation](https://colab.research.google.com/drive/1IY3DdzPE5rlJWBfrxkBwGCH_TfrVOzxo?usp=sharing) | Collections of univariate missing data imputation technique, such as mean median mode, aribitrary, end of distribution, random sample, and many more |
+| 3 | [Feature Engineering: Multivariate Missing Data Imputation](https://colab.research.google.com/drive/13P_R6Bn5n38vbxjSbXeQGef1xe_14jz1?usp=sharing) | KNN and MICE multivariate missing data imputation |
+| 4 | [Feature Engineering: Categorical Encoding](https://colab.research.google.com/drive/1xWjH3ZsfDdefdygz6lwL8luK0MeyTTtL?usp=sharing) | Collection of categorical encoding techniques, such as rare label encoding, one hot encoding, woe encoding, and other monotonic relationship encoding |
+| 5 | [Feature Engineering: Variable Transformation](https://colab.research.google.com/drive/13v0lvNMU9kU-5IzyvYo1XKXERIQmKCEB?usp=sharing) | Collection of variable transformation techniques to transform non-gaussian distribution for linear model, such as log transformer, box-cox transformer, yeo-johnson transformer |
+| 6 | [Feature Engineering: Discretization] | Coming Soon |
+| 7 | [Feature Selection: Filter Methods](https://colab.research.google.com/drive/1x-jmUbMIcQSXA4TUu1E2musdy9rf669t?usp=sharing) | Collection of feature selection filter methods, such as, constant, quasi-constant, duplicated features pair, multi-collinearity, mutual information, ANOVA, and many more |
 
 
 ### 3. Modelling
