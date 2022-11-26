@@ -22,7 +22,7 @@ It is presented in the form of iPython Notebooks and PDF.
 | 4 | [Feature Engineering: Categorical Encoding](https://colab.research.google.com/drive/1xWjH3ZsfDdefdygz6lwL8luK0MeyTTtL?usp=sharing) | Collection of categorical encoding techniques, such as rare label encoding, one hot encoding, woe encoding, and other monotonic relationship encoding |
 | 5 | [Feature Engineering: Variable Transformation](https://colab.research.google.com/drive/13v0lvNMU9kU-5IzyvYo1XKXERIQmKCEB?usp=sharing) | Collection of variable transformation techniques to transform non-gaussian distribution for linear model, such as log transformer, box-cox transformer, yeo-johnson transformer |
 | 6 | [Feature Engineering: Discretization] | Coming Soon |
-| 7 | [Feature Selection: Filter Methods](https://colab.research.google.com/drive/1x-jmUbMIcQSXA4TUu1E2musdy9rf669t?usp=sharing) | Collection of feature selection filter methods, such as, constant, quasi-constant, duplicated features pair, multi-collinearity, mutual information, ANOVA, and many more |
+| 7 | [Feature Selection: Filter Methods](https://colab.research.google.com/drive/1x-jmUbMIcQSXA4TUu1E2musdy9rf669t?usp=sharing) | Collection of feature selection filter methods, such as, constant, quasi-constant, duplicated features pair, multi-collinearity, mutual information, ANOVA, and many more | 
 
 
 ### 3. Modelling
