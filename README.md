@@ -5,7 +5,7 @@ It is presented in the form of iPython Notebooks and PDF.
 
 ## **Notes**
 
-### 1. Fundamentals
+### Fundamentals
 | No | Notebook | Description |
 |:---:|:---:|:---:|
 | 1 | [NumPy Overview](https://colab.research.google.com/drive/1YRWMpcxp5iU-Mb0wYRuLc2D2VOxQMl2X?usp=sharing) | Overview of how to use numpy |
@@ -13,7 +13,7 @@ It is presented in the form of iPython Notebooks and PDF.
 | 3 | [Matplotlib Overview](https://colab.research.google.com/drive/1b9uwlxBeYkqujx9HvmXrC94AmbUaNGuJ?usp=sharing) | Overview how to use matplotlib data visualization|
 | 4 | [Seaborn Overview](https://colab.research.google.com/drive/16b9piRc-L8xl9LAbnVqQEyEWJFz2nK0M?usp=sharing) | Overview of how to use seaborn data visualization |
 
-### 2. EDA - Data Preparation and Preprocessing
+### EDA - Data Preparation and Preprocessing
 | No | Notebook | Description |
 |:---:|:---:|:---:|
 | 1 | [Feature Engineering: Variable Types & Characteristics](https://colab.research.google.com/drive/1EvJm2lAtO4y2HWjYaTjGBgCj5SnZpJ-E?usp=sharing) | Collections of variables type and characteristics, such as MNAR, MCAR, MAR, cardinality, distributions, linear model assumptions, outliers, and variable magnitude |
@@ -25,7 +25,7 @@ It is presented in the form of iPython Notebooks and PDF.
 | 7 | [Feature Selection: Filter Methods](https://colab.research.google.com/drive/1x-jmUbMIcQSXA4TUu1E2musdy9rf669t?usp=sharing) | Collection of feature selection filter methods, such as constant, quasi-constant, duplicated features pair, multi-collinearity, mutual information, ANOVA, and many more | 
 
 
-### 3. Modelling
+### Modelling
 | No | Notebook | Report | Description |
 |:---:|:---:|:---:|:---:|
 | 1 | [Sales Advertising_Linear Regression](https://colab.research.google.com/drive/1NXfY9ZrG4B0MeOeiOS2lSR1M3kU_Tdgi?usp=sharing) | - | Sales prediction based on advertising amount |
