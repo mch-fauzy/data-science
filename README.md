@@ -25,7 +25,7 @@ It is presented in the form of iPython Notebooks and PDF.
 | 7 | [Feature Selection: Filter Methods](https://colab.research.google.com/drive/1x-jmUbMIcQSXA4TUu1E2musdy9rf669t?usp=sharing) | Collection of feature selection filter methods, such as constant, quasi-constant, duplicated features pair, multi-collinearity, mutual information, ANOVA, and many more | 
 
 
-### Modelling
+### Modelling and Analysis
 | No | Notebook | Report | Description |
 |:---:|:---:|:---:|:---:|
 | 1 | [Sales Advertising_Linear Regression](https://colab.research.google.com/drive/1NXfY9ZrG4B0MeOeiOS2lSR1M3kU_Tdgi?usp=sharing) | - | Sales prediction based on advertising amount |
