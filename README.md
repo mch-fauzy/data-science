@@ -34,6 +34,5 @@ It is presented in the form of iPython Notebooks and PDF.
 | 4 | [Article Topic Classification_Kumparan_Light GBM](https://drive.google.com/file/d/1ybXWQpMZVKzLur2fqz35h9Ta7gtyU9kz/view?usp=sharing) | [PDF](https://drive.google.com/file/d/1gYbTRkt3xad5pGgHwz0p4Q4ToFOcoW_l/view?usp=sharing) | Build a model to classify article topics based on their content using TF-IDF vectorization|
 | 5 | [Airplane Passengers_SARIMA Forecasting](https://drive.google.com/file/d/1hl33KG6d7VRllXVqJCOe1m1wTo049I2v/view?usp=sharing) | - | Number of plane passengers seasonal forecasting using Walk-Forward Validation|
 | 6 | [Sales Advertising_Linear Regression](https://colab.research.google.com/drive/1NXfY9ZrG4B0MeOeiOS2lSR1M3kU_Tdgi?usp=sharing) | - | Sales prediction based on advertising amount |
-| 7 | [Credit Default Risk_Finhack 2018_XGBoost](https://colab.research.google.com/drive/1SvDAp7kGt6bQhZEDkZ2fs5LCr0NY8KR-?usp=sharing) | [PDF](https://drive.google.com/file/d/1_0RFirKnMPwmKbVvZRUi3P-os1XA0uz8/view?usp=sharing) |Non-performing loan classification with SHAP model explainability using XGBoost|
 
 
